@@ -19,7 +19,8 @@ namespace SeeSharp_Apptionary
             private System.Windows.Forms.NotifyIcon _notifyIcon;
             private bool _isExit;
 
-            protected override void OnStartup(StartupEventArgs e)
+
+        protected override void OnStartup(StartupEventArgs e)
             {
                 base.OnStartup(e);
                 MainWindow = new MainWindow();
@@ -62,6 +63,7 @@ namespace SeeSharp_Apptionary
                 else
                 {
                     MainWindow.Show();
+       
                 }
             }
 

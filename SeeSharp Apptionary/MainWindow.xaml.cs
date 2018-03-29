@@ -24,5 +24,12 @@ namespace SeeSharp_Apptionary
         {
             InitializeComponent();
         }
+
+        private void Window_Deactivated(object wa, EventArgs e)
+        {
+            this.Show();
+            this.Deactivated += (sender, args) => { this.Hide(); };
+
+        }
     }
 }
