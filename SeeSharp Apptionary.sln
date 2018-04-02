@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27428.2005
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeeSharp Apptionary", "SeeSharp Apptionary\SeeSharp Apptionary.csproj", "{01F6324F-9B55-4194-9D38-A27A5AA92F37}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CACEADB4-022A-4DB5-8C8B-127274583262}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -27,9 +27,31 @@ namespace SeeSharp_Apptionary
 
         private void Window_Deactivated(object wa, EventArgs e)
         {
-            this.Show();
+           // this.Show();
             this.Deactivated += (sender, args) => { this.Hide(); };
 
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            using (var db = new PagingContext())
+            {
+                int id = 1;
+                var t = "csarp";
+                var c = "this is a fucking test";
+
+                var page = new Page {
+                    PageId = id,
+                    Title = t,
+                    Content = c 
+                };
+
+                db.Pages.Add(page);
+                db.SaveChanges();
+             
+                
+
+            }
         }
     }
 }

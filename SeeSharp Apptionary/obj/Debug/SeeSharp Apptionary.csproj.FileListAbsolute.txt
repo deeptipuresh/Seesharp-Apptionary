@@ -35,3 +35,8 @@ C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\obj\Debug\SeeSh
 C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\obj\Debug\SeeSharp Apptionary.csproj.CopyComplete
 C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\obj\Debug\SeeSharp Apptionary.exe
 C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\obj\Debug\SeeSharp Apptionary.pdb
+C:\Users\361SRRH\Desktop\asc2\2.NET\Seesharp Application\Seesharp-Apptionary\SeeSharp Apptionary\bin\Debug\EntityFramework.dll
+C:\Users\361SRRH\Desktop\asc2\2.NET\Seesharp Application\Seesharp-Apptionary\SeeSharp Apptionary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\361SRRH\Desktop\asc2\2.NET\Seesharp Application\Seesharp-Apptionary\SeeSharp Apptionary\bin\Debug\EntityFramework.xml
+C:\Users\361SRRH\Desktop\asc2\2.NET\Seesharp Application\Seesharp-Apptionary\SeeSharp Apptionary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\361SRRH\Desktop\asc2\2.NET\Seesharp Application\Seesharp-Apptionary\SeeSharp Apptionary\obj\Debug\SeeSharp Apptionary.csproj.CopyComplete
