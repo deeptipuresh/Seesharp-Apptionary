@@ -38,7 +38,7 @@ namespace SeeSharp_Apptionary
             {
                 int id = 1;
                 var t = "csarp";
-                var c = "this is a fucking test";
+                var c = "this is a fucking test for button";
 
                 var page = new Page {
                     PageId = id,
@@ -50,6 +50,37 @@ namespace SeeSharp_Apptionary
                 db.SaveChanges();
              
                 
+
+            }
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void keyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Key == Key.Enter) {
+                using (var db = new PagingContext())
+                {
+                    int id = 1;
+                    var t = "torma";
+                    var c = "this is a not a fucking test for text";
+
+                    var page = new Page
+                    {
+                        PageId = id,
+                        Title = t,
+                        Content = c
+                    };
+
+                    db.Pages.Add(page);
+                    db.SaveChanges();
+
+
+
+                }
 
             }
         }
