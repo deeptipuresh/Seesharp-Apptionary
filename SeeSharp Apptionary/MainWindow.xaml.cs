@@ -27,8 +27,14 @@ namespace SeeSharp_Apptionary
 
         private void Window_Deactivated(object wa, EventArgs e)
         {
-            this.Show();
+            //this.Show();
             this.Deactivated += (sender, args) => { this.Hide(); };
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+           
 
         }
     }

@@ -35,3 +35,11 @@ C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\obj\Debug\SeeSh
 C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\obj\Debug\SeeSharp Apptionary.csproj.CopyComplete
 C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\obj\Debug\SeeSharp Apptionary.exe
 C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\obj\Debug\SeeSharp Apptionary.pdb
+C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\bin\Debug\EntityFramework.dll
+C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\bin\Debug\EntityFramework.xml
+C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Documents\Seesharp Application\SeeSharp Apptionary\bin\Debug\System.Data.SQLite.xml
